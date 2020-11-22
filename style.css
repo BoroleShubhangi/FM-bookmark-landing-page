@@ -67,7 +67,7 @@ li > a {
     border-color: var(--soft-red);
   }
 
-/* .blue-bg {
+.blue-bg {
   position: absolute;
   background-color: var(--soft-blue);
   min-width: 30rem;
@@ -83,7 +83,7 @@ li > a {
   left: -40px;
   bottom: -45rem;
   border-bottom-right-radius: 10rem;
-} */
+}
 .navbar {
   display: flex;
   flex-direction: row;
